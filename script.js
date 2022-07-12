@@ -82,7 +82,7 @@ const inputClosePin = document.querySelector('.form__input--pin');
 // Functions
 
 const startLogOutTimer = function () {
-  let time = 30;
+  let time = 300;
   const tick = function () {
     const min = String(Math.trunc(time / 60)).padStart(2, 0);
     const sec = String(time % 60).padStart(2, 0);
