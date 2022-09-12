@@ -1,3 +1,23 @@
-# Bankist
-This is a simple banking website implemented using Html, Css and VanillaJs. There are two accounts with username js and jd, passwords are 1111 and 2222 respectively.
-With help of this credentials the banking experience can be simulated.
+# 🏦 Bankist
+  
+  This is a simple banking website.   
+  Implemented using Html, Css and Vanilla Javascript.  
+  
+  ## 🌟 Features / Functionalities
+  
+  - Log In
+  - Log Out
+  - Transaction History
+  - Money Transfer
+  - Loan
+  - Logout Timer
+  - Closing Account  
+  
+  ## 🚀 Log In Credentials
+  There are two accounts in this application, through those all of the above  
+  functionalities can be simulated from here. [(Click Here)](https://utopian-coder.github.io/Bankist/)
+    
+| Username  | Password |
+| ------------- | ------------- |
+| js  | 1111  |
+| jd  | 2222  |
